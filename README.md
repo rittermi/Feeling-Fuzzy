@@ -10,6 +10,8 @@ This project is hosted directly at https://rittermi.github.io/ or can be downloa
 
 A video of a 1-2 minute performance using the work:
 
+https://youtu.be/Qbta4_BfU9A
+
 Statement: 
 
 Much of this semester has been focused on the importance of text and words. This projects plays upon the uncertainies of the future in combination with the power of our words to create something unclear. The initial text will be harder for the user to decipher than the text they input themselves. With practice and a little patience, eventually users will be able to write out and see the futures they choose for themselves while interacting with this work.
