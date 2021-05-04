@@ -6,7 +6,7 @@ This work focuses (or doesn't focus) on the current insecurity about the future 
 
 Instructions for running the project:
 
-This project is hosted directly at https://rittermi.github.io/ or can be downloaded and uploaded to p5.js for modification. Be sure to create an assets section and include the bgmus.mp3 file for the sound to run properly. 
+This project is hosted directly at https://rittermi.github.io/ or can be downloaded and uploaded, or copied directly to the p5.js https://editor.p5js.org/ for modification. Be sure to create an assets section and include the bgmus.mp3 file for the sound to run properly. 
 
 A video of a 1-2 minute performance using the work:
 
