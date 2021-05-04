@@ -10,7 +10,7 @@ This project is hosted directly at https://rittermi.github.io/ or can be downloa
 
 A video of a 1-2 minute performance using the work:
 
-https://youtu.be/Qbta4_BfU9A
+https://www.youtube.com/watch?v=Qbta4_BfU9A
 
 Statement: 
 
