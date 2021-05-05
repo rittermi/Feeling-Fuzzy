@@ -15,3 +15,11 @@ https://www.youtube.com/watch?v=Qbta4_BfU9A
 Statement: 
 
 Much of this semester has been focused on the importance of text and words. This projects plays upon the uncertainies of the future in combination with the power of our words to create something unclear. The initial text will be harder for the user to decipher than the text they input themselves. With practice and a little patience, eventually users will be able to write out and see the futures they choose for themselves while interacting with this work.
+
+Resources used:
+
+https://p5js.org/examples/sound-load-and-play-sound.html -- sound
+https://editor.p5js.org/creativecoding/sketches/ryBpNdjeN -- particle text
+https://www.geeksforgeeks.org/p5-js-createbutton-function/ -- change background using a button
+https://editor.p5js.org/creativecoding/sketches/B1vCIDse4 -- basis for text input
+https://awarua.github.io/creative-coding/tutorials/tut06/ -- I relied heavily on their libraries
