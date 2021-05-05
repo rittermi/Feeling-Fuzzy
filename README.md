@@ -19,7 +19,11 @@ Much of this semester has been focused on the importance of text and words. This
 Resources used:
 
 https://p5js.org/examples/sound-load-and-play-sound.html -- sound
+
 https://editor.p5js.org/creativecoding/sketches/ryBpNdjeN -- particle text
+
 https://www.geeksforgeeks.org/p5-js-createbutton-function/ -- change background using a button
+
 https://editor.p5js.org/creativecoding/sketches/B1vCIDse4 -- basis for text input
+
 https://awarua.github.io/creative-coding/tutorials/tut06/ -- I relied heavily on their libraries
